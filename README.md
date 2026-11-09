@@ -1,11 +1,6 @@
-# Hello, world! 👋
+## Kovács Bálint-Hunor
 
-```typescript
-import { Hono } from "hono";
-const app = new Hono();
+Full-stack developer at LynxSolutions. This is my work account.
 
-app.get("/whoami", (c) => c.text("Hi, my name is Hunor!"));
-app.get("/status", (c) => c.text("☕ Loaded. Ready for work."));
-
-export default app;
-```
+Personal projects, open source and research: [@MemerGamer](https://github.com/MemerGamer) ·
+[kovacsbalinthunor.com](https://www.kovacsbalinthunor.com)
